@@ -28,8 +28,8 @@ namespace WebServiceFindDialog.Controllers
                 return Guid.Empty;
             else
                 return Answer.First().Key;
-            // TODO
-
+            
+           
         }
     }
 }
